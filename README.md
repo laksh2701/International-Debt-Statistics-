@@ -9,13 +9,13 @@ The International Debt Analysis project aims to provide a comprehensive understa
 
 # Project Steps:
 
-Data Collection
-Data Preprocessing
-Debt Classification
-Time Series Analysis
-Geographic Analysis
-Economic Indicators
-Debt Sustainability Analysis
+--Data Collection
+--Data Preprocessing
+--Debt Classification
+--Time Series Analysis
+--Geographic Analysis
+--Economic Indicators
+--Debt Sustainability Analysis
 ![download](https://github.com/laksh2701/International-Debt-Statistics-/assets/116880844/c878c1dd-c616-4224-9a48-7d629528c8c8)
 
 
